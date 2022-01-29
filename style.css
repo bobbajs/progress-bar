@@ -1,0 +1,12 @@
+.bar {
+    height: 50px;
+    width: 300px;
+    border: solid 1px #ccc;
+    margin-bottom: 10px;
+}
+
+.status {
+    height: 100%;
+    background-color: seagreen;
+    width: 0%;
+}
